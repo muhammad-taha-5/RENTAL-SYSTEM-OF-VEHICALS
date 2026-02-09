@@ -227,18 +227,37 @@ This repository represents a **fully refactored multi-file C++ project**, suitab
 
 ---
 
-## 📊 Related Project
+## 📊 Related Projects
 
+<!-- 3rd Semester OOP Project -->
 <p align="center">
-  <a href="https://github.com/aazannoorkhuwaja/Stock-Market-Simulator">
-    <img src="https://img.shields.io/badge/Stock%20Market%20Simulator-C%2B%2B%20%7C%20OOP-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/muhammad-taha-5/3rd-semester-rental-management-system">
+    <img src="https://img.shields.io/badge/🏠%20Rental%20Management%20System-C%2B%2B%20%7C%20OOP-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  📈 A real-world simulation project focused on stock trading, portfolio management, and financial analysis using C++ and OOP concepts.
+  A real-world rental management system built using <b>C++</b> and <b>Object-Oriented Programming</b>.  
+  Manages properties, tenants, payments, and records efficiently using OOP concepts.
 </p>
 
+---
+
+<!-- 1st & 2nd Semester Projects -->
+<p align="center">
+  <a href="https://github.com/muhammad-taha-5/1st-and-2nd-semester-project-with-mega-project-.git">
+    <img src="https://img.shields.io/badge/🎓%201st%20%26%202nd%20Semester%20Projects-C%2B%2B%20%7C%20PF%20%26%20ITC-1e3c72?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  A collection of <b>1st & 2nd Semester academic projects</b> covering  
+  Programming Fundamentals (PF) and Introduction to Computer Technology (ITC).  
+  Focused on logic building, problem solving, and basic C++ programming concepts.  
+  <br>
+  🔗 <a href="https://github.com/muhammad-taha-5/1st-and-2nd-semester-project-with-mega-project-.git">View on GitHub</a>
+ 
+</p>
 
 ---
 
