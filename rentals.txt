@@ -1,0 +1,60 @@
+Customer: taha | ID: 282 | Rented: TRUCK-003
+Customer: ali | ID: 222 | Rented: TRUCK-002
+Customer: taha | ID:890 | Rented: TRUCK-003
+Customer: sk | ID: 342 | Rented: TRUCK-003
+Customer: sk | ID: 342 | Rented: TRUCK-003
+Customer: sk | ID: 342 | Rented: TRUCK-003
+Customer: sk | ID: 342 | Rented: TRUCK-003
+Customer: djsd | ID: 453 | Rented: CAR-001
+Customer: djsd | ID: 453 |  this  person  was  just vistor in  our ' RentalSystem ' <<
+Customer: ffjf | ID: 789 | Rented: TRUCK-001
+Customer: ffjf | ID: 789 |  this  person  was  just vistor in  our ' RentalSystem ' <<
+
+Customer: dhsk | ID: 4928 | Rented: TRUCK-002
+Customer: vhghg | ID: 678 | Rented: TRUCK-001
+Customer: aha | ID: 897 | Rented: BIKE-003
+Customer: hdfkj | ID: 443 | Rented: TRUCK-002
+Customer: umj7 | ID: 677 | Rented: BIKE-002
+Customer: aha | ID: 767 | Rented: TRUCK-002
+Customer: aha | ID: 767 |  this  person  was  just vistor in  our ' RentalSystem ' <<
+
+Customer: aha | ID: 767 | Rented: TRUCK-003
+Customer: aha | ID: 948 | Rented: TRUCK-002
+Customer: aha | ID: 3402 | Rented: TRUCK-002
+Customer: izaz | ID: 12 | Rented: TRUCK-003
+Customer: IZAZ | ID: 17 | Rented: TRUCK-002
+Customer: aha sk | ID: 8944 | Rented: TRUCK-002
+Customer: aha sk | ID: 8944 | Rented: TRUCK-002
+Customer: aha sk | ID: 8944 | Rented: TRUCK-001
+Customer: 38949 | ID: 498 | Rented: TRUCK-003
+Customer: 38949 | ID: 498 | Rented: TRUCK-003
+Customer: 323 | ID: 2323 | Rented: TRUCK-002
+Customer: taha23 | ID: 232 | Rented: TRUCK-003
+Customer: tahakhuwaja | ID: 898944 | Rented: TRUCK-003
+Customer: taha | ID: 5346 | Rented: TRUCK-001
+Customer: taha | ID: 8437 | Rented: TRUCK-003
+Customer: taasd | ID: 78347 | Rented: TRUCK-003
+Customer: fjaslkdfj | ID: 123 |  this  person  was  just vistor in  our ' RentalSystem ' <<
+
+Customer: taha | ID: 6727 | Rented: TRUCK-002
+Customer: taha | ID: 6727 |  this  person  was  just vistor in  our ' RentalSystem ' <<
+
+Customer: taha | ID: 6727 | Rented: TRUCK-002
+Customer: taha | ID: USR-1002 | Rented: TRUCK-002
+Customer: ali | ID: USR-1002 | Rented: TRUCK-002
+Customer: ali | ID: USR-1002 | Rented: TRUCK-003
+Customer: ali | ID: USR-1002 | Rented: TRUCK-003
+Customer: taa | ID: USR-1003 | Rented: TRUCK-002
+Customer: taha | ID: USR-1004 | Rented: TRUCK-001
+Customer: thad | ID: USR-1001 | Rented: TRUCK-003
+Customer: ksdh | ID: USR-1002 | Rented: TRUCK-002
+Customer: jj | ID: USR-1003 |  this  person  was  just vistor in  our ' RentalSystem ' <<
+
+Customer: jd | ID: USR-1001 | Rented: TRUCK-001
+Customer: sd | ID: USR-1002 | Rented: TRUCK-002
+Customer: taha | ID: USR-1001 | Rented: TRUCK-003
+Customer: taha | ID: USR-1001 | Rented: TRUCK-003
+Customer: taha | ID: USR-1001 | Rented: TRUCK-002
+Customer: ali | ID: USR-1002 |  this  person  was  just vistor in  our ' RentalSystem ' <<
+
+Customer: ali | ID: USR-1002 | Rented: TRUCK-001
