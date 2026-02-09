@@ -209,7 +209,55 @@ This repository represents a **fully refactored multi-file C++ project**, suitab
 - File Handling & Utilities
 - Maintainable & Scalable Design
 
+## 🔗 Connect With Me
+
+<p align="center">
+  <b>Connect with me on LinkedIn or explore my coding projects below!</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/aazannoorkhuwaja">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
+
+## 📊 Related Project
+
+<p align="center">
+  <a href="https://github.com/aazannoorkhuwaja/Stock-Market-Simulator">
+    <img src="https://img.shields.io/badge/Stock%20Market%20Simulator-C%2B%2B%20%7C%20OOP-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📈 A real-world simulation project focused on stock trading, portfolio management, and financial analysis using C++ and OOP concepts.
+</p>
+
+
+---
+
+<p align="center">
+  <b>Built with ❤️ using C++ & Object-Oriented Programming</b><br>
+  <i>Designed to solve real-world rental management problems</i>
+</p>
+
+<p align="center">
+  👨‍💻 Created & Maintained by <b>MTK (M. Taha Khuwaja)</b>
+</p>
+
+<p align="center">
+  ⭐ If you found this project helpful, consider giving it a star on GitHub!
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:0891b2&height=120&section=footer"/>
+
+
 
 ## 🗂️ Project Structure
 
